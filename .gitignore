@@ -1,0 +1,9 @@
+# Datos dinámicos y archivos subidos en pruebas
+data/
+public/uploads/juegos/
+
+# Carpetas internas de editores y sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
